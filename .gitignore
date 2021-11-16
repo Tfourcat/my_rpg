@@ -1,0 +1,14 @@
+.clangd*
+*.o
+.ccls*
+*.a
+compile_commands.json
+my_rpg
+vgcore*
+
+NormEZ.rb
+download (1)
+
+test
+
+config/save
