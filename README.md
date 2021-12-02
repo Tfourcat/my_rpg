@@ -8,7 +8,7 @@ RPG game made with:
 # Dependencies
 
 - make
-- gcc
+- gcc 
 
 # Quick start
 
